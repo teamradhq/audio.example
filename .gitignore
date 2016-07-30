@@ -1,0 +1,7 @@
+# Large audio files
+*.wav
+*.aiff
+
+# Large video files
+*.mov
+*.mp4
